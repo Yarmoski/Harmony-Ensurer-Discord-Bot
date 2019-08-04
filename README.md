@@ -1,6 +1,6 @@
 # Harmony-Ensurer-Discord-Bot
 
-This is a bot that I made for my friend's discord server using Python and discord.py. 
+This is a bot that I made for my friend's Discord server using Python and discord.py. (https://github.com/Rapptz/discord.py)
 
 It is based on a joke concept that the socialist party is watching every message and censors "banned words."
 
