@@ -8,3 +8,5 @@ I left comments within the code to explain what is going on. Mainly the core fun
 
 The bot is easily customizable to fit any censorship or even moderation needs. :)
 
+Since I had lots of problems with learning discord.py and deciphering tutorials made on older versions, this took much longer than expected :p
+But I'm happy with how it turned out :D
