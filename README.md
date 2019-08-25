@@ -8,6 +8,6 @@ I left comments within the code to explain what is going on. Mainly the core fun
 
 The bot is easily customizable to fit any censorship or even moderation needs.
 
-Since I had lots of problems with learning discord.py and deciphering tutorials made on older versions, this took much longer than expected. However, I'm happy with how it turned out.
+Since I had lots of problems with learning discord.py and deciphering tutorials made on older versions, this took much longer than expected. However, I'm happy with how it turned out. 
 
 Add the bot to your server: https://discordapp.com/api/oauth2/authorize?client_id=607331665563484160&permissions=75776&scope=bot
